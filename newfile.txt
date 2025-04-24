@@ -1,4 +1,7 @@
 This is new file
 
+ main2
+Merge conflict
 
-Merge conflict 1
+Merge conflict 
+ main
